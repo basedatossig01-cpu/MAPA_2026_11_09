@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_VILLA_YGATIM__.schema">
+      <SimpleField name="CÈdula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="CÈdula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="CÈdula_Ti" type="double"/>
+      <SimpleField name="SituaciÛn" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="TelÈfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_VILLA_YGATIM__">
+      <name>Distrito_VILLA YGATIM√ç</name>
+      <Placemark id="Distrito_VILLA_YGATIM__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6227163.00000000000</SimpleData>
+            <SimpleData name="cedula">6227163</SimpleData>
+            <SimpleData name="N">48.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMEN SANTACRUZ MARTINEZ</SimpleData>
+            <SimpleData name="CÈdula_1">6227163.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="CÈdula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">NUEVA ALIANZA</SimpleData>
+            <SimpleData name="TelÈfono">0983290927</SimpleData>
+            <SimpleData name="Vivienda_L">-24.22301460000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59641090000</SimpleData>
+            <SimpleData name="Parcela_La">-24.25093999000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60033041000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">48</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5997483992701,-24.2512431998989,0
+                -55.5999165997605,-24.2516175993566,0
+                -55.6004187000627,-24.2514835000147,0
+                -55.6006740998979,-24.2514076997299,0
+                -55.6007677007511,-24.2506470002093,0
+                -55.6008465998684,-24.2502197994278,0
+                -55.6005775001247,-24.2502448002282,0
+                -55.6002048002703,-24.2503675003103,0
+                -55.5997483992701,-24.2512431998989,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6063740.00000000000</SimpleData>
+            <SimpleData name="cedula">6063740</SimpleData>
+            <SimpleData name="N">43.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCO SOLANO MARTINEZ ADAMS</SimpleData>
+            <SimpleData name="CÈdula_1">6063740.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="CÈdula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">JEJUIMI</SimpleData>
+            <SimpleData name="TelÈfono">0983134665</SimpleData>
+            <SimpleData name="Vivienda_L">-24.15959220000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.64589460000</SimpleData>
+            <SimpleData name="Parcela_La">-24.16185917000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.64023136000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">43</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6397394002799,-24.1620823000572,0
+                -55.6399940001807,-24.1623257007655,0
+                -55.6408814990127,-24.1620794995389,0
+                -55.6407154997829,-24.1613700996508,0
+                -55.6394659999292,-24.1617196005195,0
+                -55.6395212004637,-24.1619311006297,0
+                -55.6397394002799,-24.1620823000572,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6804048.00000000000</SimpleData>
+            <SimpleData name="cedula">6804048</SimpleData>
+            <SimpleData name="N">55.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIANA TYKUARANGI</SimpleData>
+            <SimpleData name="CÈdula_1">6804048.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="CÈdula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0984699549</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10257180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55053150000</SimpleData>
+            <SimpleData name="Parcela_La">-24.11838880000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54210058000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">55</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5422834790838,-24.1189298599941,0
+                -55.5422878997768,-24.1189209008948,0
+                -55.5422993999645,-24.1188993011794,0
+                -55.5423171999694,-24.1188585001976,0
+                -55.5423345008008,-24.1188001000312,0
+                -55.5423410001772,-24.1187677996724,0
+                -55.5423542001135,-24.1186989006977,0
+                -55.5423819997218,-24.1186293003416,0
+                -55.542399200244,-24.1185945998387,0
+                -55.5424162002635,-24.1185254011974,0
+                -55.5424269996271,-24.1184485002284,0
+                -55.5424404001966,-24.1184080003891,0
+                -55.5424625003099,-24.118329701022,0
+                -55.5424798015413,-24.1182630011874,0
+                -55.5424870013365,-24.1182293999303,0
+                -55.5424874396125,-24.1181880169509,0
+                -55.5424879017634,-24.1181446999327,0
+                -55.5425154997455,-24.1180716011269,0
+                -55.5425200996064,-24.1180377005395,0
+                -55.5425311998999,-24.1179575000859,0
+                -55.542544000587,-24.1178870016367,0
+                -55.5425592000751,-24.1178521014091,0
+                -55.5425533997667,-24.1177863008648,0
+                -55.5424917988109,-24.1177998001493,0
+                -55.5424664003007,-24.1177794005948,0
+                -55.5424309011646,-24.1177645006564,0
+                -55.5423969995103,-24.1177768997683,0
+                -55.5423771016262,-24.1177916015651,0
+                -55.5423232004239,-24.1178143001696,0
+                -55.5422418997523,-24.11783559945,0
+                -55.5422106002964,-24.1178520002496,0
+                -55.5421536992836,-24.1178773006547,0
+                -55.5420984998921,-24.1178719010946,0
+                -55.5420827996104,-24.1178731003441,0
+                -55.5420582996228,-24.1178763006667,0
+                -55.5420256007709,-24.1178738005281,0
+                -55.5420077001563,-24.1178733000546,0
+                -55.5419739001234,-24.1178927011444,0
+                -55.541951101154,-24.1179209999368,0
+                -55.5419283991487,-24.1179364000279,0
+                -55.5419098999885,-24.1179829004702,0
+                -55.5419019007105,-24.1180425010037,0
+                -55.5418907997061,-24.1180577011966,0
+                -55.5418411998195,-24.1180797002095,0
+                -55.5417967000329,-24.1181025010144,0
+                -55.5417656996267,-24.1181024010028,0
+                -55.541708600243,-24.1180964007119,0
+                -55.5416771008274,-24.1181063004619,0
+                -55.5416787003335,-24.1181170002508,0
+                -55.541681299856,-24.1181590009909,0
+                -55.5416941003089,-24.1182002006239,0
+                -55.5416915999617,-24.1182307005883,0
+                -55.5416945010937,-24.1182855008851,0
+                -55.5416860004521,-24.1183362000738,0
+                -55.5416810993743,-24.1183536005022,0
+                -55.5416913002924,-24.1183936004878,0
+                -55.5416936003792,-24.1184411004603,0
+                -55.5416840999924,-24.1184603000359,0
+                -55.5416757995768,-24.1184816999853,0
+                -55.5417009001079,-24.1185349007832,0
+                -55.5417052994005,-24.1185583011701,0
+                -55.5416915000583,-24.1186027993057,0
+                -55.5416943002833,-24.1186448010569,0
+                -55.5416861994574,-24.1186676007845,0
+                -55.5416882999343,-24.1187248993108,0
+                -55.5417010993402,-24.1187655011343,0
+                -55.5417072001854,-24.1187840017337,0
+                -55.5417040999272,-24.1188195998291,0
+                -55.5417245998704,-24.1188722004383,0
+                -55.5417389997884,-24.1188847002498,0
+                -55.5417897000427,-24.1188778003287,0
+                -55.5418342003005,-24.1188937011157,0
+                -55.541855200522,-24.1188960002202,0
+                -55.5419065004569,-24.1189072006732,0
+                -55.5419510001379,-24.118926801089,0
+                -55.5419764995877,-24.1189469000873,0
+                -55.5420291999978,-24.1189519011007,0
+                -55.5420415004981,-24.1189920005737,0
+                -55.5420374006666,-24.1190230008988,0
+                -55.5420812999174,-24.1190513999792,0
+                -55.5421396014807,-24.1190070006027,0
+                -55.5421611004652,-24.1189988005131,0
+                -55.5422088002326,-24.1190114998292,0
+                -55.5422550695873,-24.1190210619365,0
+                -55.5422660588894,-24.1189842026528,0
+                -55.5422834790838,-24.1189298599941,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6659501.00000000000</SimpleData>
+            <SimpleData name="cedula">6659501</SimpleData>
+            <SimpleData name="N">54.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VILMA SANTACRUZ MARTINEZ</SimpleData>
+            <SimpleData name="CÈdula_1">6659501.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="CÈdula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">NUEVA ALIANZA</SimpleData>
+            <SimpleData name="TelÈfono">0985634534</SimpleData>
+            <SimpleData name="Vivienda_L">-24.22514240000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59762730000</SimpleData>
+            <SimpleData name="Parcela_La">-24.22221401000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60176299000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">54</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6011887005202,-24.2216193999004,0
+                -55.601338800097,-24.2228702003248,0
+                -55.6023421999409,-24.2228268004692,0
+                -55.6021699997392,-24.2215332996949,0
+                -55.6011887005202,-24.2216193999004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

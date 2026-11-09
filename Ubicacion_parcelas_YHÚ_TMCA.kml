@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_YH__.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_YH__">
+      <name>Distrito_YHÃš</name>
+      <Placemark id="Distrito_YH__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">7333907.00000000000</SimpleData>
+            <SimpleData name="cedula">7333907</SimpleData>
+            <SimpleData name="N">63.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSANA GOMEZ PERALTA</SimpleData>
+            <SimpleData name="Cédula_1">7333907.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">ARAPAY</SimpleData>
+            <SimpleData name="Teléfono">0985860057</SimpleData>
+            <SimpleData name="Vivienda_L">-25.09291900000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.79177290000</SimpleData>
+            <SimpleData name="Parcela_La">-25.09162487000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.79146056000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">63</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.791460562646,-25.0916248681025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YH__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">5702402.00000000000</SimpleData>
+            <SimpleData name="cedula">5702402</SimpleData>
+            <SimpleData name="N">42.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARICEL BOGADO AGUAYO</SimpleData>
+            <SimpleData name="Cédula_1">5702402.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU (AMAMBAY)</SimpleData>
+            <SimpleData name="Teléfono">0987171121</SimpleData>
+            <SimpleData name="Vivienda_L">-24.90202640000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.85929480000</SimpleData>
+            <SimpleData name="Parcela_La">-24.90058956000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.86111898000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">42</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.8611189828768,-24.9005895645899,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.8600510074078,-24.9016000734906,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_YH__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">5411637.00000000000</SimpleData>
+            <SimpleData name="cedula">5411637</SimpleData>
+            <SimpleData name="N">46.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA GLORIA MAGDALENA MALLORQUIN SOSA</SimpleData>
+            <SimpleData name="Cédula_1">5411637.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0971414359</SimpleData>
+            <SimpleData name="Vivienda_L">-24.95089660000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90449650000</SimpleData>
+            <SimpleData name="Parcela_La">-24.94924441000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.90495055000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">46</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9049505458426,-24.9492444066561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YH__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">5251554.00000000000</SimpleData>
+            <SimpleData name="cedula">5251554</SimpleData>
+            <SimpleData name="N">64.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BLANCA LOURDES LARROZA DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">5251554.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">VIRGEN DEL ROSARIO SUB URBANO</SimpleData>
+            <SimpleData name="Teléfono">986863338</SimpleData>
+            <SimpleData name="Vivienda_L">-24.75351170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.52071830000</SimpleData>
+            <SimpleData name="Parcela_La">-24.74475528000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.50585280000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">64</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5058527967052,-24.7447552796354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

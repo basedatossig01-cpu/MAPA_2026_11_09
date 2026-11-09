@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_VILLA_CURUGUATY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_VILLA_CURUGUATY">
+      <name>Distrito_VILLA CURUGUATY</name>
+      <Placemark id="Distrito_VILLA_CURUGUATY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">5504959.00000000000</SimpleData>
+            <SimpleData name="cedula">5504959</SimpleData>
+            <SimpleData name="N">9.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA SOSA BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">5504959.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">FORTUNA - BARRIO PRIMAVERA</SimpleData>
+            <SimpleData name="Teléfono">0981429134</SimpleData>
+            <SimpleData name="Vivienda_L">-24.41822850000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.72063570000</SimpleData>
+            <SimpleData name="Parcela_La">-24.40925598000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72283670000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G12-P16P16-P16P16-P19P19</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7221784998806,-24.4096599004324,0
+                -55.7225799999786,-24.4100599997158,0
+                -55.7229854993581,-24.4095881004049,0
+                -55.7230299997949,-24.4093399994295,0
+                -55.723488300205,-24.4087849999949,0
+                -55.7232038998886,-24.4084790998839,0
+                -55.7225983013297,-24.4089350004216,0
+                -55.722729900187,-24.4091059999391,0
+                -55.7221784998806,-24.4096599004324,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">3967016.00000000000</SimpleData>
+            <SimpleData name="cedula">3967016</SimpleData>
+            <SimpleData name="N">11.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAISY MABEL FLORES ESQUIVEL</SimpleData>
+            <SimpleData name="Cédula_1">3967016.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">NUEVA ESPERANZA</SimpleData>
+            <SimpleData name="Teléfono">0984448429</SimpleData>
+            <SimpleData name="Vivienda_L">-24.39639000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71101000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.39622267000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.71448733000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G12-P16P16-P16P16-P19P19</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">11</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7149616003995,-24.3960460011528,0
+                -55.7148418018507,-24.3960531994631,0
+                -55.7135878005664,-24.3960230003765,0
+                -55.713557599907,-24.396559900001,0
+                -55.7141323997614,-24.3964922014099,0
+                -55.714619999511,-24.3963850006224,0
+                -55.7153866995742,-24.3963600002389,0
+                -55.7154767005552,-24.3962599998006,0
+                -55.715500000335,-24.3961613001443,0
+                -55.7154933004105,-24.3959100010374,0
+                -55.7153851996166,-24.3958234993295,0
+                -55.715275000521,-24.3958383007641,0
+                -55.7151916995674,-24.3960133004982,0
+                -55.7149616003995,-24.3960460011528,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">5582758.00000000000</SimpleData>
+            <SimpleData name="cedula">5582758</SimpleData>
+            <SimpleData name="N">6.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIANA ACOSTA CABRERA</SimpleData>
+            <SimpleData name="Cédula_1">5582758.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">FORTUNA - BARRIO CENTRO</SimpleData>
+            <SimpleData name="Teléfono">0984308513</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42044780000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71692020000</SimpleData>
+            <SimpleData name="Parcela_La">-24.40691559000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72760244000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-P14X</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7268961458046,-24.4066891502798,0
+                -55.7272291458705,-24.4073177500918,0
+                -55.7282559461374,-24.4072521505841,0
+                -55.7279588458052,-24.4064404502969,0
+                -55.7268961458046,-24.4066891502798,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">6189857.00000000000</SimpleData>
+            <SimpleData name="cedula">6189857</SimpleData>
+            <SimpleData name="N">5.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA DOMINGA LOPEZ MELGAREJO</SimpleData>
+            <SimpleData name="Cédula_1">6189857.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">7 MONTES</SimpleData>
+            <SimpleData name="Teléfono">0985891980</SimpleData>
+            <SimpleData name="Vivienda_L">-24.24615330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69925360000</SimpleData>
+            <SimpleData name="Parcela_La">-24.24560917000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70218133000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-P16P16-P16P16-P17P17</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">5</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.7017167000557,-24.2454017005242,0
+                  -55.7019547000623,-24.245988899957,0
+                  -55.7026552995566,-24.2457913004333,0
+                  -55.7024106995331,-24.2452452001797,0
+                  -55.7017167000557,-24.2454017005242,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.704481700026,-24.2446950001294,0
+                  -55.7046116998021,-24.2451817000266,0
+                  -55.7053941997157,-24.2449344003111,0
+                  -55.7052818001429,-24.2445044997273,0
+                  -55.704481700026,-24.2446950001294,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">2502856.00000000000</SimpleData>
+            <SimpleData name="cedula">2502856</SimpleData>
+            <SimpleData name="N">8.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISPIN BENITEZ GALEANO</SimpleData>
+            <SimpleData name="Cédula_1">2502856.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">FORTUNA - BARRIO 12 DE JUNIO</SimpleData>
+            <SimpleData name="Teléfono">0982333373</SimpleData>
+            <SimpleData name="Vivienda_L">-24.40922010000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.73219570000</SimpleData>
+            <SimpleData name="Parcela_La">-24.40896314000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.73035615000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-P14X</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7298601003789,-24.4093700001385,0
+                -55.7304392000405,-24.4095539004063,0
+                -55.7310016996556,-24.4086574001687,0
+                -55.7302989999638,-24.4083507998593,0
+                -55.7297487001066,-24.4091901998426,0
+                -55.7298601003789,-24.4093700001385,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">4270484.00000000000</SimpleData>
+            <SimpleData name="cedula">4270484</SimpleData>
+            <SimpleData name="N">10.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SEBERIANO ESQUIVEL</SimpleData>
+            <SimpleData name="Cédula_1">4270484.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">FORTUNA - BARRIO SAN LORENZO</SimpleData>
+            <SimpleData name="Teléfono">0981995173</SimpleData>
+            <SimpleData name="Vivienda_L">-24.41104600000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.73010760000</SimpleData>
+            <SimpleData name="Parcela_La">-24.41019409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72986238000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-P15P15-P15P15-P17P17</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">10</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7294483004525,-24.4104543001271,0
+                -55.729626300361,-24.4106614001745,0
+                -55.7307516001192,-24.4105615003448,0
+                -55.7297637998029,-24.4095460999289,0
+                -55.7291513004318,-24.4099831997963,0
+                -55.7293426997008,-24.4103000002045,0
+                -55.7294483004525,-24.4104543001271,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">3355567.00000000000</SimpleData>
+            <SimpleData name="cedula">3355567</SimpleData>
+            <SimpleData name="N">12.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARINA GIMARAI GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">3355567.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">NUEVA ESPERANZA</SimpleData>
+            <SimpleData name="Teléfono">0985172150</SimpleData>
+            <SimpleData name="Vivienda_L">-24.39740370000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71174020000</SimpleData>
+            <SimpleData name="Parcela_La">-24.39720557000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.71479255000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G6-P16P16-P16P16-P19P19</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">12</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.7138569996378,-24.3970646997275,0
+                  -55.7139529998949,-24.3975065001778,0
+                  -55.7152864997315,-24.3974054003885,0
+                  -55.715232400034,-24.396915100312,0
+                  -55.7138569996378,-24.3970646997275,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.7153518996111,-24.3968886005034,0
+                  -55.7153784003565,-24.3974000998839,0
+                  -55.7158209998372,-24.397320100287,0
+                  -55.7156679002281,-24.3969802004455,0
+                  -55.7155957002233,-24.3969003001647,0
+                  -55.7153518996111,-24.3968886005034,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">7430336.00000000000</SimpleData>
+            <SimpleData name="cedula">7430336</SimpleData>
+            <SimpleData name="N">13.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSA RAMONA BARRIOS</SimpleData>
+            <SimpleData name="Cédula_1">7430336.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">SANTA CATALINA</SimpleData>
+            <SimpleData name="Teléfono">0985451326</SimpleData>
+            <SimpleData name="Vivienda_L">-24.54908710000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68169380000</SimpleData>
+            <SimpleData name="Parcela_La">-24.54832731000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67949889000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G6-P16P16-P16P16-P17P17</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">13</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.6907416003295,-24.5498719998311,0
+                  -55.6912483000546,-24.5505955998988,0
+                  -55.6914016995375,-24.5504390000938,0
+                  -55.6909826996649,-24.5497425001657,0
+                  -55.6907416003295,-24.5498719998311,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.6790422997647,-24.5479465005429,0
+                  -55.6792469001483,-24.5487546997368,0
+                  -55.6798199997075,-24.5487431000968,0
+                  -55.6799043003375,-24.5479702000165,0
+                  -55.6790422997647,-24.5479465005429,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_CURUGUATY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_CURUGUATY.schema">
+            <SimpleData name="Cédula">5582760.00000000000</SimpleData>
+            <SimpleData name="cedula">5582760</SimpleData>
+            <SimpleData name="N">7.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">YENI GOMEZ MENDEZ</SimpleData>
+            <SimpleData name="Cédula_1">5582760.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">JUAN RAMON GOMEZ SALES</SimpleData>
+            <SimpleData name="Cédula_Ti">1351177.00000000000</SimpleData>
+            <SimpleData name="Situación">Se encuentra fuera de la comunidad por motivos laborales y de estudio</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA CURUGUATY</SimpleData>
+            <SimpleData name="Localidad">FORTUNA - BARRIO CENTRO</SimpleData>
+            <SimpleData name="Teléfono">0974268472</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42069050000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71685060000</SimpleData>
+            <SimpleData name="Parcela_La">-24.43601307000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72784382000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G10-P16P16-P16P16-P17P17</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7272177242416,-24.4363892895512,0
+                -55.7274871549948,-24.4367530319582,0
+                -55.7285184549418,-24.4356471319911,0
+                -55.7280728541675,-24.4353269324596,0
+                -55.7272177242416,-24.4363892895512,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

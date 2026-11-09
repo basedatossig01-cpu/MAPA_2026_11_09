@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_DR.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_DR">
+      <name>Distrito_DR</name>
+      <Placemark id="Distrito_DR.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7474208.00000000000</SimpleData>
+            <SimpleData name="cedula">7474208</SimpleData>
+            <SimpleData name="N">51.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN DUARTE GAUTO</SimpleData>
+            <SimpleData name="Cédula_1">7474208.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0986364072</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37503160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58264710000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37368248000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.58156340000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">51</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5812586703927,-25.3741502247869,0
+                  -55.5812266000796,-25.3741724001555,0
+                  -55.5812865991812,-25.3741678006194,0
+                  -55.5812586703927,-25.3741502247869,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5812586703927,-25.3741502247869,0
+                  -55.5812803999266,-25.3741351998895,0
+                  -55.5813300004728,-25.3742145001813,0
+                  -55.5813655999168,-25.3742539998274,0
+                  -55.5814266996088,-25.374346699651,0
+                  -55.5815316995478,-25.3744399996386,0
+                  -55.5816516005225,-25.374523900581,0
+                  -55.5817243000755,-25.3744204000418,0
+                  -55.5817509001614,-25.3743624996647,0
+                  -55.5818343998733,-25.3741952997289,0
+                  -55.5819127997442,-25.3740620000512,0
+                  -55.5819689003708,-25.3739720000786,0
+                  -55.5819832996314,-25.3739766993316,0
+                  -55.5819939003561,-25.373972900116,0
+                  -55.5820084003519,-25.3738916003141,0
+                  -55.5820650001791,-25.3737549998659,0
+                  -55.5820632999284,-25.3737200002053,0
+                  -55.582047099715,-25.3736398997288,0
+                  -55.5820035998197,-25.3735091992908,0
+                  -55.5820386004601,-25.3734837997783,0
+                  -55.5820039998262,-25.373421400051,0
+                  -55.5819895001002,-25.3733269997717,0
+                  -55.5819909997052,-25.3733236004059,0
+                  -55.5819943008811,-25.3732271000067,0
+                  -55.5820197002629,-25.3731518994985,0
+                  -55.5819364000899,-25.373103100141,0
+                  -55.5818965002911,-25.3729979996263,0
+                  -55.5818441997279,-25.3729255002273,0
+                  -55.5817849000241,-25.372862599665,0
+                  -55.5816965999093,-25.3728282993115,0
+                  -55.5816179994507,-25.3728784997377,0
+                  -55.5815567006501,-25.3729175997733,0
+                  -55.5815111997097,-25.3730062002878,0
+                  -55.581485999521,-25.3730809999325,0
+                  -55.5814659003837,-25.3731130997408,0
+                  -55.5813889004739,-25.3731656999889,0
+                  -55.5813850000729,-25.3732869996051,0
+                  -55.581318300051,-25.3733896992035,0
+                  -55.581291699743,-25.3735132999048,0
+                  -55.5812981001235,-25.3735148992326,0
+                  -55.5812172000905,-25.3734980008525,0
+                  -55.5811558002904,-25.3735542997306,0
+                  -55.5810850006971,-25.3735680000079,0
+                  -55.5810314992698,-25.3736137001606,0
+                  -55.580979199652,-25.3736022997549,0
+                  -55.5809032999796,-25.3736482993989,0
+                  -55.580880300222,-25.3736317001076,0
+                  -55.5808298993266,-25.3736655002389,0
+                  -55.5807767996039,-25.3737002006829,0
+                  -55.5808149995963,-25.3737300005399,0
+                  -55.5808733003605,-25.3738116998909,0
+                  -55.5809139992157,-25.3738743004327,0
+                  -55.5809680008406,-25.373917300271,0
+                  -55.5810044999671,-25.3739514003819,0
+                  -55.5811262001928,-25.3739929998576,0
+                  -55.5811635004059,-25.3740533004124,0
+                  -55.5812046004805,-25.3741161999925,0
+                  -55.5812586703927,-25.3741502247869,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_DR.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7536767.00000000000</SimpleData>
+            <SimpleData name="cedula">7536767</SimpleData>
+            <SimpleData name="N">49.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTHIA GAYOSO CENTURION</SimpleData>
+            <SimpleData name="Cédula_1">7536767.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0985662725</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37726020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57761240000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37768409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57702880000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">49</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5765592999999,-25.3780844999681,0
+                -55.5764841005721,-25.3784823006264,0
+                -55.5778447003001,-25.3775906998757,0
+                -55.5767534673347,-25.3769808328737,0
+                -55.5765592999999,-25.3780844999681,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_DR.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7544906.00000000000</SimpleData>
+            <SimpleData name="cedula">7544906</SimpleData>
+            <SimpleData name="N">50.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTIA DUARTE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7544906.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0975266490</SimpleData>
+            <SimpleData name="Vivienda_L">-25.38000950000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58489010000</SimpleData>
+            <SimpleData name="Parcela_La">-25.38247506000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57494282000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">50</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5744687998755,-25.382692699241,0
+                -55.5751399991226,-25.3830782998691,0
+                -55.5759029993815,-25.3829190999052,0
+                -55.5742915351795,-25.3815076518364,0
+                -55.5744687998755,-25.382692699241,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

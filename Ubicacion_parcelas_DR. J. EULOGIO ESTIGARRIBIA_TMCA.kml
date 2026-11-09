@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_DR.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_DR">
+      <name>Distrito_DR</name>
+      <Placemark id="Distrito_DR.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7536767.00000000000</SimpleData>
+            <SimpleData name="cedula">7536767</SimpleData>
+            <SimpleData name="N">49.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTHIA GAYOSO CENTURION</SimpleData>
+            <SimpleData name="Cédula_1">7536767.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0985662725</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37726020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57761240000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37768409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57702880000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">49</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5770287956159,-25.3776840853017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7474208.00000000000</SimpleData>
+            <SimpleData name="cedula">7474208</SimpleData>
+            <SimpleData name="N">51.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN DUARTE GAUTO</SimpleData>
+            <SimpleData name="Cédula_1">7474208.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0986364072</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37503160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58264710000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37368248000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.58156340000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">51</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.5815635647656,-25.3736822257801,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.5812572898849,-25.3741634751893,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_DR.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7544906.00000000000</SimpleData>
+            <SimpleData name="cedula">7544906</SimpleData>
+            <SimpleData name="N">50.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTIA DUARTE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7544906.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0975266490</SimpleData>
+            <SimpleData name="Vivienda_L">-25.38000950000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58489010000</SimpleData>
+            <SimpleData name="Parcela_La">-25.38247506000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57494282000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">50</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5749428248422,-25.3824750569088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
