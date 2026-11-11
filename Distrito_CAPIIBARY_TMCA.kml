@@ -4,13 +4,13 @@
     <Schema id="Distrito_CAPIIBARY.schema">
       <SimpleField name="Cédula" type="double"/>
       <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
       <SimpleField name="N" type="double"/>
       <SimpleField name="Nombres_y_" type="string"/>
-      <SimpleField name="Cédula_1" type="double"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
       <SimpleField name="Titular_se" type="string"/>
-      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
       <SimpleField name="Situación" type="string"/>
       <SimpleField name="Comunidad" type="string"/>
       <SimpleField name="Modelo" type="string"/>
@@ -38,13 +38,13 @@
           <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
             <SimpleData name="Cédula">2561779.00000000000</SimpleData>
             <SimpleData name="cedula">2561779</SimpleData>
+            <SimpleData name="Cédula_1">2561779.00000000000</SimpleData>
             <SimpleData name="N">2.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">MARIA GONZALEZ DE GIMENEZ</SimpleData>
-            <SimpleData name="Cédula_1">2561779.00000000000</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Campesina</SimpleData>
             <SimpleData name="Modelo">Modelo 4</SimpleData>
@@ -93,13 +93,13 @@
           <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
             <SimpleData name="Cédula">5873974.00000000000</SimpleData>
             <SimpleData name="cedula">5873974</SimpleData>
+            <SimpleData name="Cédula_1">5873974.00000000000</SimpleData>
             <SimpleData name="N">1.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">ZONIA ELIZABET IRIARTE GONZALEZ</SimpleData>
-            <SimpleData name="Cédula_1">5873974.00000000000</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Campesina</SimpleData>
             <SimpleData name="Modelo">Modelo 1</SimpleData>
@@ -157,13 +157,13 @@
           <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
             <SimpleData name="Cédula">7011757.00000000000</SimpleData>
             <SimpleData name="cedula">7011757</SimpleData>
+            <SimpleData name="Cédula_1">7011757.00000000000</SimpleData>
             <SimpleData name="N">3.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">SANDRA CATALINA OCAMPOS LEZCANO</SimpleData>
-            <SimpleData name="Cédula_1">7011757.00000000000</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Campesina</SimpleData>
             <SimpleData name="Modelo">Modelo 2</SimpleData>
@@ -204,13 +204,13 @@
           <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
             <SimpleData name="Cédula">3817711.00000000000</SimpleData>
             <SimpleData name="cedula">3817711</SimpleData>
+            <SimpleData name="Cédula_1">3817711.00000000000</SimpleData>
             <SimpleData name="N">4.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">MIRIAN ESTELA MARECOS DE ACOSTA</SimpleData>
-            <SimpleData name="Cédula_1">3817711.00000000000</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Campesina</SimpleData>
             <SimpleData name="Modelo">Modelo 3</SimpleData>

@@ -4,13 +4,13 @@
     <Schema id="Distrito_YBY_PYTA.schema">
       <SimpleField name="Cédula" type="double"/>
       <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
       <SimpleField name="N" type="double"/>
       <SimpleField name="Nombres_y_" type="string"/>
-      <SimpleField name="Cédula_1" type="double"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
       <SimpleField name="Titular_se" type="string"/>
-      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
       <SimpleField name="Situación" type="string"/>
       <SimpleField name="Comunidad" type="string"/>
       <SimpleField name="Modelo" type="string"/>
@@ -38,13 +38,13 @@
           <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
             <SimpleData name="Cédula">2513722.00000000000</SimpleData>
             <SimpleData name="cedula">2513722</SimpleData>
+            <SimpleData name="Cédula_1">2513722.00000000000</SimpleData>
             <SimpleData name="N">14.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">AURELIANO LOPEZ DUARTE</SimpleData>
-            <SimpleData name="Cédula_1">2513722.00000000000</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Ind?gena</SimpleData>
             <SimpleData name="Modelo">Modelo 3</SimpleData>
@@ -85,13 +85,13 @@
           <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
             <SimpleData name="Cédula">5831166.00000000000</SimpleData>
             <SimpleData name="cedula">5831166</SimpleData>
-            <SimpleData name="N">21.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">MARIELA ELIZABETH ALLENDE FRETES</SimpleData>
             <SimpleData name="Cédula_1">5831166.00000000000</SimpleData>
+            <SimpleData name="N">17.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIELA ELIZABETH ALLENDE FRETES</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Campesina</SimpleData>
             <SimpleData name="Modelo">Modelo 1</SimpleData>
@@ -110,7 +110,7 @@
             <SimpleData name="Lote">G</SimpleData>
             <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">21</SimpleData>
+            <SimpleData name="OBJECTID_1">17</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -132,110 +132,15 @@
       <Placemark id="Distrito_YBY_PYTA.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
-            <SimpleData name="Cédula">5973631.00000000000</SimpleData>
-            <SimpleData name="cedula">5973631</SimpleData>
-            <SimpleData name="N">37.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">LUCIA ROMERO CARDOZO</SimpleData>
-            <SimpleData name="Cédula_1">5973631.00000000000</SimpleData>
-            <SimpleData name="Sexo">Mujer</SimpleData>
-            <SimpleData name="Cambio_de_">NO</SimpleData>
-            <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
-            <SimpleData name="Situación">NO</SimpleData>
-            <SimpleData name="Comunidad">Ind?gena</SimpleData>
-            <SimpleData name="Modelo">Modelo 3</SimpleData>
-            <SimpleData name="Departamen">CANINDEYU</SimpleData>
-            <SimpleData name="Distrito">YBY PYTA</SimpleData>
-            <SimpleData name="Localidad">SAN JUAN</SimpleData>
-            <SimpleData name="Teléfono">0982383446</SimpleData>
-            <SimpleData name="Vivienda_L">-24.23234760000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.18119860000</SimpleData>
-            <SimpleData name="Parcela_La">-24.23293374000</SimpleData>
-            <SimpleData name="Parcela_Lo">-55.18000761000</SimpleData>
-            <SimpleData name="Grupo_de_p">G-P1-XX-XX-XX</SimpleData>
-            <SimpleData name="Estado_del">Activo</SimpleData>
-            <SimpleData name="Monitorear">SI</SimpleData>
-            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
-            <SimpleData name="Lote">G</SimpleData>
-            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
-            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">37</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-                -55.1793520005794,-24.2331860999836,0
-                -55.1802334000253,-24.2335635998155,0
-                -55.180699999906,-24.2327167002806,0
-                -55.1797332999248,-24.2322966994447,0
-                -55.1793520005794,-24.2331860999836,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark id="Distrito_YBY_PYTA.4">
-        <ExtendedData>
-          <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
-            <SimpleData name="Cédula">5470975.00000000000</SimpleData>
-            <SimpleData name="cedula">5470975</SimpleData>
-            <SimpleData name="N">19.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">IDALIA OLIVEIRA ZARATE</SimpleData>
-            <SimpleData name="Cédula_1">5470975.00000000000</SimpleData>
-            <SimpleData name="Sexo">Mujer</SimpleData>
-            <SimpleData name="Cambio_de_">NO</SimpleData>
-            <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
-            <SimpleData name="Situación">NO</SimpleData>
-            <SimpleData name="Comunidad">Ind?gena</SimpleData>
-            <SimpleData name="Modelo">Modelo 2</SimpleData>
-            <SimpleData name="Departamen">CANINDEYU</SimpleData>
-            <SimpleData name="Distrito">YBY PYTA</SimpleData>
-            <SimpleData name="Localidad">YRYAPU</SimpleData>
-            <SimpleData name="Teléfono">0985793855</SimpleData>
-            <SimpleData name="Vivienda_L">-24.32655590000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.32802720000</SimpleData>
-            <SimpleData name="Parcela_La">-24.32756150000</SimpleData>
-            <SimpleData name="Parcela_Lo">-55.32690269000</SimpleData>
-            <SimpleData name="Grupo_de_p">G-P1-P7P7-XX-XX</SimpleData>
-            <SimpleData name="Estado_del">Activo</SimpleData>
-            <SimpleData name="Monitorear">NO</SimpleData>
-            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
-            <SimpleData name="Lote">G</SimpleData>
-            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
-            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">19</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-                -55.3269090000183,-24.3280880999147,0
-                -55.3270750000665,-24.3282632997652,0
-                -55.3274481002106,-24.3278085994107,0
-                -55.3268277000362,-24.326898299562,0
-                -55.3263157004268,-24.3272576002275,0
-                -55.3269090000183,-24.3280880999147,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark id="Distrito_YBY_PYTA.5">
-        <ExtendedData>
-          <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
             <SimpleData name="Cédula">7265998.00000000000</SimpleData>
             <SimpleData name="cedula">7265998</SimpleData>
-            <SimpleData name="N">59.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">NOELIA BARRIOS ROMERO</SimpleData>
             <SimpleData name="Cédula_1">7265998.00000000000</SimpleData>
+            <SimpleData name="N">30.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NOELIA BARRIOS ROMERO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Ind?gena</SimpleData>
             <SimpleData name="Modelo">Modelo 1</SimpleData>
@@ -254,7 +159,7 @@
             <SimpleData name="Lote">G</SimpleData>
             <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">59</SimpleData>
+            <SimpleData name="OBJECTID_1">30</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -274,18 +179,18 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-      <Placemark id="Distrito_YBY_PYTA.6">
+      <Placemark id="Distrito_YBY_PYTA.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
             <SimpleData name="Cédula">4008813.00000000000</SimpleData>
             <SimpleData name="cedula">4008813</SimpleData>
+            <SimpleData name="Cédula_1">4008813.00000000000</SimpleData>
             <SimpleData name="N">16.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">MARIA BENITEZ SANABRIA</SimpleData>
-            <SimpleData name="Cédula_1">4008813.00000000000</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
             <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Cédula_Ti">NO</SimpleData>
             <SimpleData name="Situación">NO</SimpleData>
             <SimpleData name="Comunidad">Ind?gena</SimpleData>
             <SimpleData name="Modelo">Modelo 3</SimpleData>
@@ -318,53 +223,6 @@
                 -55.1874467005533,-24.2381149993963,0
                 -55.1864367001206,-24.2384149997167,0
                 -55.1865891787892,-24.2391838033282,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark id="Distrito_YBY_PYTA.7">
-        <ExtendedData>
-          <SchemaData schemaUrl="#Distrito_YBY_PYTA.schema">
-            <SimpleData name="Cédula">4591027.00000000000</SimpleData>
-            <SimpleData name="cedula">4591027</SimpleData>
-            <SimpleData name="N">20.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">NINFA RAMIREZ BARRIOS</SimpleData>
-            <SimpleData name="Cédula_1">4591027.00000000000</SimpleData>
-            <SimpleData name="Sexo">Mujer</SimpleData>
-            <SimpleData name="Cambio_de_">NO</SimpleData>
-            <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
-            <SimpleData name="Situación">NO</SimpleData>
-            <SimpleData name="Comunidad">Campesina</SimpleData>
-            <SimpleData name="Modelo">Modelo 1</SimpleData>
-            <SimpleData name="Departamen">CANINDEYU</SimpleData>
-            <SimpleData name="Distrito">YBY PYTA</SimpleData>
-            <SimpleData name="Localidad">BRITEZ KUE PASTOREO</SimpleData>
-            <SimpleData name="Teléfono">0983728568</SimpleData>
-            <SimpleData name="Vivienda_L">-24.27347290000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.26752650000</SimpleData>
-            <SimpleData name="Parcela_La">-24.26585449000</SimpleData>
-            <SimpleData name="Parcela_Lo">-55.26870772000</SimpleData>
-            <SimpleData name="Grupo_de_p">G-P5-XX-XX-XX</SimpleData>
-            <SimpleData name="Estado_del">Activo</SimpleData>
-            <SimpleData name="Monitorear">NO</SimpleData>
-            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
-            <SimpleData name="Lote">G</SimpleData>
-            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
-            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">20</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-                -55.2682082996911,-24.2662532999348,0
-                -55.2691683002521,-24.266276700205,0
-                -55.2692117001163,-24.265459999671,0
-                -55.2682449992427,-24.2654300000119,0
-                -55.2682082996911,-24.2662532999348,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
