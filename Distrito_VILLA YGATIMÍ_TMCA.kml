@@ -39,7 +39,7 @@
             <SimpleData name="Cédula">6227163.00000000000</SimpleData>
             <SimpleData name="cedula">6227163</SimpleData>
             <SimpleData name="Cédula_1">6227163.00000000000</SimpleData>
-            <SimpleData name="N">24.00000000000</SimpleData>
+            <SimpleData name="N">16.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">CARMEN SANTACRUZ MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -63,7 +63,7 @@
             <SimpleData name="Lote">H</SimpleData>
             <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">24</SimpleData>
+            <SimpleData name="OBJECTID_1">16</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -90,7 +90,7 @@
             <SimpleData name="Cédula">6063740.00000000000</SimpleData>
             <SimpleData name="cedula">6063740</SimpleData>
             <SimpleData name="Cédula_1">6063740.00000000000</SimpleData>
-            <SimpleData name="N">21.00000000000</SimpleData>
+            <SimpleData name="N">14.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">FRANCISCO SOLANO MARTINEZ ADAMS</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -114,7 +114,7 @@
             <SimpleData name="Lote">H</SimpleData>
             <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">21</SimpleData>
+            <SimpleData name="OBJECTID_1">14</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -139,7 +139,7 @@
             <SimpleData name="Cédula">6659501.00000000000</SimpleData>
             <SimpleData name="cedula">6659501</SimpleData>
             <SimpleData name="Cédula_1">6659501.00000000000</SimpleData>
-            <SimpleData name="N">27.00000000000</SimpleData>
+            <SimpleData name="N">17.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">VILMA SANTACRUZ MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -163,7 +163,7 @@
             <SimpleData name="Lote">H</SimpleData>
             <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">27</SimpleData>
+            <SimpleData name="OBJECTID_1">17</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -175,126 +175,6 @@
                 -55.6023421999409,-24.2228268004692,0
                 -55.6021699997392,-24.2215332996949,0
                 -55.6011887005202,-24.2216193999004,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark id="Distrito_VILLA_YGATIM__.4">
-        <ExtendedData>
-          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
-            <SimpleData name="Cédula">6742950.00000000000</SimpleData>
-            <SimpleData name="cedula">6742950</SimpleData>
-            <SimpleData name="Cédula_1">6742950.00000000000</SimpleData>
-            <SimpleData name="N">45.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">DELIA NU EZ DUARTE</SimpleData>
-            <SimpleData name="Sexo">Mujer</SimpleData>
-            <SimpleData name="Cambio_de_">NO</SimpleData>
-            <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">NO</SimpleData>
-            <SimpleData name="Situación">NO</SimpleData>
-            <SimpleData name="Comunidad">Ind?gena</SimpleData>
-            <SimpleData name="Modelo">Modelo 1</SimpleData>
-            <SimpleData name="Departamen">CANINDEYU</SimpleData>
-            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
-            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CA?ADITA</SimpleData>
-            <SimpleData name="Teléfono">1234567890</SimpleData>
-            <SimpleData name="Vivienda_L">-24.11944030000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.57120490000</SimpleData>
-            <SimpleData name="Parcela_La">-24.12437131000</SimpleData>
-            <SimpleData name="Parcela_Lo">-55.56355281000</SimpleData>
-            <SimpleData name="Grupo_de_p">H-P12-XX-XX-XX</SimpleData>
-            <SimpleData name="Estado_del">Activo</SimpleData>
-            <SimpleData name="Monitorear">Si</SimpleData>
-            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Lote">H</SimpleData>
-            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
-            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">45</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-                -55.5630371996136,-24.1239875001378,0
-                -55.5632313003152,-24.1248941995688,0
-                -55.5634770000876,-24.1248084996763,0
-                -55.5639804002864,-24.1247435001385,0
-                -55.564067499787,-24.1245659999401,0
-                -55.5640484998036,-24.1243717000278,0
-                -55.563911399947,-24.124025499895,0
-                -55.5638434997423,-24.1239878003429,0
-                -55.563673299837,-24.1239049997103,0
-                -55.5630371996136,-24.1239875001378,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark id="Distrito_VILLA_YGATIM__.5">
-        <ExtendedData>
-          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
-            <SimpleData name="Cédula">3892441.00000000000</SimpleData>
-            <SimpleData name="cedula">3892441</SimpleData>
-            <SimpleData name="Cédula_1">3892441.00000000000</SimpleData>
-            <SimpleData name="N">33.00000000000</SimpleData>
-            <SimpleData name="Nombres_y_">CRISTINA VERA</SimpleData>
-            <SimpleData name="Sexo">Mujer</SimpleData>
-            <SimpleData name="Cambio_de_">NO</SimpleData>
-            <SimpleData name="Titular_se">NO</SimpleData>
-            <SimpleData name="Cédula_Ti">NO</SimpleData>
-            <SimpleData name="Situación">NO</SimpleData>
-            <SimpleData name="Comunidad">Ind?gena</SimpleData>
-            <SimpleData name="Modelo">Modelo 2</SimpleData>
-            <SimpleData name="Departamen">CANINDEYU</SimpleData>
-            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
-            <SimpleData name="Localidad">ITANARAM? - BARRIO  CENTRO</SimpleData>
-            <SimpleData name="Teléfono">No tiene</SimpleData>
-            <SimpleData name="Vivienda_L">-24.10728200000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.69283820000</SimpleData>
-            <SimpleData name="Parcela_La">-24.10251588000</SimpleData>
-            <SimpleData name="Parcela_Lo">-55.69133190000</SimpleData>
-            <SimpleData name="Grupo_de_p">H-P14-XX-XX-XX</SimpleData>
-            <SimpleData name="Estado_del">Activo</SimpleData>
-            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Lote">H</SimpleData>
-            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
-            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">33</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-                -55.6911648516937,-24.1024727862065,0
-                -55.6914033642689,-24.1031792027654,0
-                -55.6914108270029,-24.1032013040088,0
-                -55.6914139996735,-24.1032106995066,0
-                -55.6917331994193,-24.1030555995605,0
-                -55.6917304481301,-24.103049656457,0
-                -55.6916031996666,-24.1027748002764,0
-                -55.6916559007728,-24.1026815997848,0
-                -55.6917401996838,-24.1025955998523,0
-                -55.6914996997735,-24.1021444000188,0
-                -55.6914171992625,-24.1021003007259,0
-                -55.6913331004649,-24.1020765002021,0
-                -55.6911666996426,-24.1020521004377,0
-                -55.6910799003625,-24.102049600572,0
-                -55.6909859003432,-24.1020514991844,0
-                -55.6906794004783,-24.1021514997763,0
-                -55.6906435997773,-24.1019664001788,0
-                -55.690520799956,-24.1019523999405,0
-                -55.6902352001592,-24.1020179003771,0
-                -55.6901074999396,-24.1022279996051,0
-                -55.6901232997507,-24.1024096000935,0
-                -55.6904282998617,-24.1023643998393,0
-                -55.6906356994241,-24.1022063997565,0
-                -55.6907102004122,-24.1023761998854,0
-                -55.6909982002602,-24.1022266001373,0
-                -55.6910767002429,-24.1022117001777,0
-                -55.6911648516937,-24.1024727862065,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>

@@ -303,7 +303,7 @@
             <SimpleData name="Cédula">6527719.00000000000</SimpleData>
             <SimpleData name="cedula">6527719</SimpleData>
             <SimpleData name="Cédula_1">6527719.00000000000</SimpleData>
-            <SimpleData name="N">50.00000000000</SimpleData>
+            <SimpleData name="N">21.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">NANCY CACERES ISASI</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">SI</SimpleData>
@@ -322,11 +322,12 @@
             <SimpleData name="Parcela_Lo">-55.66261468000</SimpleData>
             <SimpleData name="Grupo_de_p">Lote 1-P6-P6P6-P18P18-P19P19</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
             <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
             <SimpleData name="Lote">Lote 1</SimpleData>
             <SimpleData name="Etapa_de_i">Culminado</SimpleData>
             <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">50</SimpleData>
+            <SimpleData name="OBJECTID_1">21</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -413,7 +414,7 @@
             <SimpleData name="Cédula">5058979.00000000000</SimpleData>
             <SimpleData name="cedula">5058979</SimpleData>
             <SimpleData name="Cédula_1">5058979.00000000000</SimpleData>
-            <SimpleData name="N">49.00000000000</SimpleData>
+            <SimpleData name="N">20.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">CELIA LUCILA BENITEZ ARCE</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -432,11 +433,12 @@
             <SimpleData name="Parcela_Lo">-55.71262768000</SimpleData>
             <SimpleData name="Grupo_de_p">Lote 1-P2-P15P15-P15P15-P19P19</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
             <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
             <SimpleData name="Lote">Lote 1</SimpleData>
             <SimpleData name="Etapa_de_i">Culminado</SimpleData>
             <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
-            <SimpleData name="OBJECTID_1">49</SimpleData>
+            <SimpleData name="OBJECTID_1">20</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
